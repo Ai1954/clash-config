@@ -8995,8 +8995,8 @@ payload:
   - DOMAIN-SUFFIX,ztxbd.com
   - DOMAIN-SUFFIX,ztyumn.ifeng.com
   - DOMAIN-SUFFIX,zuche321.com
-  - DOMAIN-SUFFIX,zudrurta.com
   - DOMAIN-SUFFIX,zunss.com
+  - DOMAIN-SUFFIX,zudrurta.com
   - DOMAIN-SUFFIX,zuopp.com
   - DOMAIN-SUFFIX,zuowen.hydcd.com
   - DOMAIN-SUFFIX,zutodu.cn
@@ -9071,6 +9071,26 @@ payload:
   - DOMAIN-SUFFIX,ads.yap.yahoo.com
   - DOMAIN-SUFFIX,sumologic.com
   - DOMAIN-SUFFIX,openx.net
+  - DOMAIN,adv.lih.kg, Adblock
+  - DOMAIN-SUFFIX, adap.tv, Adblock
+  - DOMAIN-SUFFIX, pippio.com, Adblock
+  - DOMAIN-SUFFIX, launchdarkly.com, Adblock
+  - DOMAIN-SUFFIX, vpon.com, Adblock
+  - DOMAIN-SUFFIX, innity.com, Adblock
+  - DOMAIN-SUFFIX, samplicio.us, Adblock
+  - DOMAIN-SUFFIX, spotxchange.com, Adblock
+  - DOMAIN-SUFFIX, bluekai.com, Adblock
+  - DOMAIN-SUFFIX, brightline.tv, Adblock
+  - DOMAIN-SUFFIX, mparticle.com, Adblock
+  - DOMAIN-SUFFIX, cws.conviva.com, Adblock
+  - DOMAIN-SUFFIX, stickyadstv.com, Adblock
+  - DOMAIN-SUFFIX, adsrvr.org, Adblock
+  - DOMAIN-SUFFIX, pandora.com, Pandora
+  - DOMAIN-SUFFIX, readmo.yahoo.com, Adblock
+  - DOMAIN-SUFFIX, geo.yahoo.com, Adblock
+  - DOMAIN-SUFFIX, udc.yahoo.com, Adblock
+
+
 
 
 
